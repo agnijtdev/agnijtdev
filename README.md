@@ -71,8 +71,6 @@ PID   PROJECT              STATUS      DESCRIPTION
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41)
 
-**core protocols/tools:** BGP · BIRD · ExaBGP · TLS 1.3 · GRE tunneling · Tree-sitter · GNN/BiLSTM pipelines
-
 </div>
 
 <br>
